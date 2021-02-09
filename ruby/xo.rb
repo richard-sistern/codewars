@@ -1,4 +1,4 @@
-# Exes and Ohs
+# Kata: Exes and Ohs
 def XO(str)
   x_count = str.scan(/[Xx]/).count
   o_count = str.scan(/[Oo]/).count
